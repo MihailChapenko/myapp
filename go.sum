@@ -1,0 +1,4 @@
+github.com/MihailChapenko/celeritas v0.0.0-20230125234815-5cf3760f3379 h1:01X+hVLEEaVCfZpULOTV1WY+uxahDt6C6GF50xUw/2o=
+github.com/MihailChapenko/celeritas v0.0.0-20230125234815-5cf3760f3379/go.mod h1:OHFGz5f0mA8pad1ZfXrMcQFHFJfc4mzaSxRvJchpFfE=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
