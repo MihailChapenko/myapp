@@ -3,8 +3,12 @@ module github.com/MihailChapenko/myapp
 go 1.19
 
 require (
-	github.com/MihailChapenko/celeritas v0.0.0-20230127035106-5ad8e56dce68
+	github.com/MihailChapenko/celeritas v0.0.0-20230130040503-9664a034cc32
 	github.com/go-chi/chi/v5 v5.0.8
 )
 
-require github.com/joho/godotenv v1.4.0 // indirect
+require (
+	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53 // indirect
+	github.com/CloudyKit/jet/v6 v6.2.0 // indirect
+	github.com/joho/godotenv v1.4.0 // indirect
+)

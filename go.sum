@@ -1,5 +1,13 @@
+github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53 h1:sR+/8Yb4slttB4vD+b9btVEnWgL3Q00OBTzVT8B9C0c=
+github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53/go.mod h1:+3IMCy2vIlbG1XG/0ggNQv0SvxCAIpPM5b1nCz56Xno=
+github.com/CloudyKit/jet/v6 v6.2.0 h1:EpcZ6SR9n28BUGtNJSvlBqf90IpjeFr36Tizxhn/oME=
+github.com/CloudyKit/jet/v6 v6.2.0/go.mod h1:d3ypHeIRNo2+XyqnGA8s+aphtcVpjP5hPwP/Lzo7Ro4=
 github.com/MihailChapenko/celeritas v0.0.0-20230127035106-5ad8e56dce68 h1:u6Y60ypyaqQR/yWI0yF9qSCy9QlZxkqK3A8emO+Eiug=
 github.com/MihailChapenko/celeritas v0.0.0-20230127035106-5ad8e56dce68/go.mod h1:GFr80VLMH8tfJSlsZ1IGhUADxZp72NT62RIZwWQESP4=
+github.com/MihailChapenko/celeritas v0.0.0-20230127041859-b7a427368a27 h1:LutkBtYtSIgj+qNiTshbN1REdsecjVYvDHjrvSgTyTc=
+github.com/MihailChapenko/celeritas v0.0.0-20230127041859-b7a427368a27/go.mod h1:GFr80VLMH8tfJSlsZ1IGhUADxZp72NT62RIZwWQESP4=
+github.com/MihailChapenko/celeritas v0.0.0-20230130040503-9664a034cc32 h1:IunOJtJS3ohDD4JPnY/HdGR/uwgsD5BHLNWWYBdj2xM=
+github.com/MihailChapenko/celeritas v0.0.0-20230130040503-9664a034cc32/go.mod h1:Tt7bt9ajuJ3bdgXEUiXaCGhetzLo9I57KiwynnDbN5Y=
 github.com/go-chi/chi/v5 v5.0.8 h1:lD+NLqFcAi1ovnVZpsnObHGW4xb4J8lNmoYVfECH1Y0=
 github.com/go-chi/chi/v5 v5.0.8/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
 github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
