@@ -1,9 +1,9 @@
 module github.com/MihailChapenko/myapp
 
-go 1.19
+go 1.20
 
 require (
-	github.com/MihailChapenko/celeritas v0.0.0-20230130040503-9664a034cc32
+	github.com/MihailChapenko/celeritas v0.0.0-20230131040234-2bebceed1992
 	github.com/go-chi/chi/v5 v5.0.8
 )
 
