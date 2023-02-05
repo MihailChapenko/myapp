@@ -10,7 +10,13 @@ github.com/MihailChapenko/celeritas v0.0.0-20230130040503-9664a034cc32 h1:IunOJt
 github.com/MihailChapenko/celeritas v0.0.0-20230130040503-9664a034cc32/go.mod h1:Tt7bt9ajuJ3bdgXEUiXaCGhetzLo9I57KiwynnDbN5Y=
 github.com/MihailChapenko/celeritas v0.0.0-20230131040234-2bebceed1992 h1:W799BkkfEk0OAPYrZIq30mCnbpaczo/rhZzN8VU7fhc=
 github.com/MihailChapenko/celeritas v0.0.0-20230131040234-2bebceed1992/go.mod h1:Tt7bt9ajuJ3bdgXEUiXaCGhetzLo9I57KiwynnDbN5Y=
+github.com/MihailChapenko/celeritas v0.0.0-20230205032339-356b6570fdb1 h1:DGCm2SD18J3qP73RmvPrv/H1pgPA4x22fiLi4Uz5Aqc=
+github.com/MihailChapenko/celeritas v0.0.0-20230205032339-356b6570fdb1/go.mod h1:OP8UQ/m91rCx1LIEdyD7qt7cv5yhoNol/3xz9SZk2xw=
+github.com/alexedwards/scs/v2 v2.5.0 h1:zgxOfNFmiJyXG7UPIuw1g2b9LWBeRLh3PjfB9BDmfL4=
+github.com/alexedwards/scs/v2 v2.5.0/go.mod h1:ToaROZxyKukJKT/xLcVQAChi5k6+Pn1Gvmdl7h3RRj8=
 github.com/go-chi/chi/v5 v5.0.8 h1:lD+NLqFcAi1ovnVZpsnObHGW4xb4J8lNmoYVfECH1Y0=
 github.com/go-chi/chi/v5 v5.0.8/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
 github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
 github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/joho/godotenv v1.5.0 h1:C/Vohk/9L1RCoS/UW2gfyi2N0EElSW3yb9zwi3PjosE=
+github.com/joho/godotenv v1.5.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
